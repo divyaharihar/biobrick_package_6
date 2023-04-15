@@ -1,5 +1,12 @@
-^mypkgname\.Rproj$
+^group6\.Rproj$
 ^\.Rproj\.user$
+<<<<<<< HEAD
 ^mypkgname\.Rcheck$
 ^mypkgname.*\.tar\.gz$
 ^mypkgname.*\.tgz$
+=======
+^group6\.Rcheck$
+^group6.*\.tar\.gz$
+^group6.*\.tgz$
+^LICENSE\.md$
+>>>>>>> 068f1d85b65220fe95edb1c76dafaabb164d3424
